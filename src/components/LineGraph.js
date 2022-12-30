@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import CanvasJSReact from '../lib/canvasjs.react';
+import CanvasJSReact from '../lib/canvasjs/canvasjs.react';
 
 // const CanvasJS = CanvasJSReact.CanvasJS;
 const CanvasJSChart = CanvasJSReact.CanvasJSChart;
